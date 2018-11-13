@@ -7,7 +7,7 @@ public class StandOnZanzibar {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        sc.nextLine();
+        String testCases = sc.nextLine();
         while (sc.hasNextLine()) {
             int counterImportTurtles = 0;
             String[] line = sc.nextLine().split(" ");
