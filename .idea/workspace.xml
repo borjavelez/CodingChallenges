@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd198c2-92d9-4480-b3e5-03dab4d90f2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrollHunt/TrollHunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicRemains/BasicRemains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrassSeed/GrassSeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuadrantSelection/QuadrantSelection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -52,28 +53,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="java" value="2456" />
-          <entry key="md" value="316" />
-          <entry key="txt" value="59" />
+          <entry key="dummy" value="28" />
+          <entry key="java" value="3139" />
+          <entry key="md" value="403" />
+          <entry key="txt" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2456" />
-          <entry key="Markdown" value="316" />
-          <entry key="PLAIN_TEXT" value="68" />
+          <entry key="JAVA" value="3139" />
+          <entry key="Markdown" value="403" />
+          <entry key="PLAIN_TEXT" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="8" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="8" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
@@ -81,24 +82,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="46" column="12" selection-end-line="49" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="260">
-                <caret line="10" column="184" selection-start-line="10" selection-start-column="184" selection-end-line="10" selection-end-column="184" />
+              <first_editor relative-caret-position="338">
+                <caret line="13" column="215" selection-start-line="13" selection-start-column="215" selection-end-line="13" selection-end-column="215" />
               </first_editor>
               <second_editor />
             </state>
@@ -106,10 +95,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TrollHunt/TrollHunt.java">
+        <entry file="file://$PROJECT_DIR$/src/BasicRemains/BasicRemains.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="55" />
+            <state relative-caret-position="364">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,6 +135,11 @@
         <option value="$PROJECT_DIR$/src/CardTrick/CardTrick.java" />
         <option value="$PROJECT_DIR$/src/TrollHunt/CardTrick.java" />
         <option value="$PROJECT_DIR$/src/TrollHunt/TrollHunt.java" />
+        <option value="$PROJECT_DIR$/src/SecretSanta/SecretSanta.java" />
+        <option value="$PROJECT_DIR$/src/QuadrantSelection/SecretSanta.java" />
+        <option value="$PROJECT_DIR$/src/QuadrantSelection/QuadrantSelection.java" />
+        <option value="$PROJECT_DIR$/src/GrassSeed/GrassSeed.java" />
+        <option value="$PROJECT_DIR$/src/BasicRemains/BasicRemains.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -186,13 +180,31 @@
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicRemains" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CatalanSquare" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GrassSeed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="QALY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="QuadrantSelection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
@@ -221,10 +233,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542213978169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542222411414" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,13 +253,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TrollHunt">
-    <configuration name="QALY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QALY.QALY" />
+  <component name="RunManager" selected="Application.BasicRemains">
+    <configuration name="BasicRemains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicRemains.BasicRemains" />
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QALY.*" />
+          <option name="PATTERN" value="BasicRemains.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +267,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StandOnZanzibar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StandOnZanzibar.StandOnZanzibar" />
+    <configuration name="GrassSeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GrassSeed.GrassSeed" />
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StandOnZanzibar.*" />
+          <option name="PATTERN" value="GrassSeed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadrantSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuadrantSelection.QuadrantSelection" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuadrantSelection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,17 +320,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StandOnZanzibar" />
-      <item itemvalue="Application.QALY" />
       <item itemvalue="Application.TourDeFrance" />
       <item itemvalue="Application.TrollHunt" />
+      <item itemvalue="Application.QuadrantSelection" />
+      <item itemvalue="Application.GrassSeed" />
+      <item itemvalue="Application.BasicRemains" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicRemains" />
+        <item itemvalue="Application.GrassSeed" />
+        <item itemvalue="Application.QuadrantSelection" />
         <item itemvalue="Application.TrollHunt" />
         <item itemvalue="Application.TourDeFrance" />
-        <item itemvalue="Application.QALY" />
-        <item itemvalue="Application.StandOnZanzibar" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +347,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542141034812</updated>
       <workItem from="1542141037519" duration="112000" />
-      <workItem from="1542141387415" duration="15896000" />
+      <workItem from="1542141387415" duration="21775000" />
     </task>
     <task id="LOCAL-00001" summary="Catalan Square Added">
       <created>1542141515854</created>
@@ -354,11 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542153238495</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="troll hunt">
+      <created>1542213997935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542213997935</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16008000" />
+    <option name="totallyTimeSpent" value="21887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -374,8 +411,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32867134" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -403,23 +440,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Catalan Square Added" />
     <MESSAGE value="Tour de france" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tour de france" />
+    <MESSAGE value="troll hunt" />
+    <option name="LAST_COMMIT_MESSAGE" value="troll hunt" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StandOnZanzibar/StandOnZanzibar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CatalanSquare/CatalanSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -436,6 +464,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrollHunt/TrollHunt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuadrantSelection/QuadrantSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="5" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GrassSeed/GrassSeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1196">
@@ -446,10 +501,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrollHunt/TrollHunt.java">
+    <entry file="file://$PROJECT_DIR$/src/CatalanSquare/CatalanSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="55" />
+        <state relative-caret-position="676">
+          <caret line="26" selection-start-line="26" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicRemains/BasicRemains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -459,12 +524,87 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="260">
-            <caret line="10" column="184" selection-start-line="10" selection-start-column="184" selection-end-line="10" selection-end-column="184" />
+          <first_editor relative-caret-position="338">
+            <caret line="13" column="215" selection-start-line="13" selection-start-column="215" selection-end-line="13" selection-end-column="215" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CodingChallenges</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
