@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd198c2-92d9-4480-b3e5-03dab4d90f2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimaryArithmetic/PrimaryArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimePath/PrimePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,27 +52,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
-          <entry key="java" value="5512" />
+          <entry key="java" value="7270" />
           <entry key="md" value="495" />
-          <entry key="txt" value="118" />
+          <entry key="txt" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5512" />
+          <entry key="JAVA" value="7270" />
           <entry key="Markdown" value="495" />
-          <entry key="PLAIN_TEXT" value="146" />
+          <entry key="PLAIN_TEXT" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
           <entry key="Markdown" value="4" />
         </counts>
       </usages-collector>
@@ -81,14 +80,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="312">
-                <caret line="12" column="248" selection-start-line="12" selection-start-column="248" selection-end-line="12" selection-end-column="248" />
+              <first_editor relative-caret-position="416">
+                <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="24" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PrimePath/PrimePath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-208">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,6 +226,7 @@
         <option value="$PROJECT_DIR$/src/CalculatingDartScores/CalculatingDartScores.java" />
         <option value="$PROJECT_DIR$/src/PrimaryArithmetic/PrimaryArithmetic.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/PrimePath/PrimePath.java" />
       </list>
     </option>
   </component>
@@ -283,6 +295,12 @@
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrimePath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="QALY" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,7 +343,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542331669863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542396503411" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -345,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimaryArithmetic">
+  <component name="RunManager" selected="Application.PrimePath">
     <configuration name="BasicRemains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicRemains.BasicRemains" />
       <module name="CodingChallenges" />
@@ -372,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrassSeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GrassSeed.GrassSeed" />
+    <configuration name="PrimaryArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimaryArithmetic.PrimaryArithmetic" />
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GrassSeed.*" />
+          <option name="PATTERN" value="PrimaryArithmetic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,12 +403,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimaryArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimaryArithmetic.PrimaryArithmetic" />
+    <configuration name="PrimePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimePath.PrimePath" />
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PrimaryArithmetic.*" />
+          <option name="PATTERN" value="PrimePath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,19 +430,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GrassSeed" />
       <item itemvalue="Application.BasicRemains" />
       <item itemvalue="Application.Statistics" />
       <item itemvalue="Application.CalculatingDartScores" />
       <item itemvalue="Application.PrimaryArithmetic" />
+      <item itemvalue="Application.PrimePath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimePath" />
         <item itemvalue="Application.PrimaryArithmetic" />
         <item itemvalue="Application.CalculatingDartScores" />
         <item itemvalue="Application.Statistics" />
         <item itemvalue="Application.BasicRemains" />
-        <item itemvalue="Application.GrassSeed" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +458,7 @@
       <updated>1542141034812</updated>
       <workItem from="1542141037519" duration="112000" />
       <workItem from="1542141387415" duration="22501000" />
-      <workItem from="1542288103881" duration="9286000" />
+      <workItem from="1542288103881" duration="16205000" />
     </task>
     <task id="LOCAL-00001" summary="Catalan Square Added">
       <created>1542141515854</created>
@@ -498,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542324335246</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="primary arithmetic">
+      <created>1542331681550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542331681550</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31899000" />
+    <option name="totallyTimeSpent" value="38818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -550,7 +575,8 @@
     <MESSAGE value="troll hunt" />
     <MESSAGE value="basic remains added" />
     <MESSAGE value="calculating dart scores solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculating dart scores solved" />
+    <MESSAGE value="primary arithmetic" />
+    <option name="LAST_COMMIT_MESSAGE" value="primary arithmetic" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StandOnZanzibar/StandOnZanzibar.java">
@@ -663,10 +689,20 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="312">
-            <caret line="12" column="248" selection-start-line="12" selection-start-column="248" selection-end-line="12" selection-end-column="248" />
+          <first_editor relative-caret-position="416">
+            <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="24" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimePath/PrimePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
