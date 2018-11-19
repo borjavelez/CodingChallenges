@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcd198c2-92d9-4480-b3e5-03dab4d90f2c" name="Default Changelist" comment="prime path solved">
-      <change afterPath="$PROJECT_DIR$/src/CombinationLock/CombinationLock.java" afterDir="false" />
+    <list default="true" id="dcd198c2-92d9-4480-b3e5-03dab4d90f2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SecretSanta/SecretSanta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,6 +12,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CodingChallenges$SecretSanta.ic" NAME="SecretSanta Coverage Results" MODIFIED="1542589170514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SecretSanta.*</FILTER>
+    </SUITE>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-772597594">
@@ -53,27 +58,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
-          <entry key="java" value="8676" />
-          <entry key="md" value="814" />
-          <entry key="txt" value="153" />
+          <entry key="java" value="10157" />
+          <entry key="md" value="895" />
+          <entry key="txt" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8676" />
-          <entry key="Markdown" value="814" />
-          <entry key="PLAIN_TEXT" value="181" />
+          <entry key="JAVA" value="10157" />
+          <entry key="Markdown" value="895" />
+          <entry key="PLAIN_TEXT" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="21" />
           <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="21" />
           <entry key="Markdown" value="5" />
         </counts>
       </usages-collector>
@@ -81,23 +86,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="104">
-                <caret line="4" column="117" selection-start-line="4" selection-start-column="117" selection-end-line="4" selection-end-column="117" />
+                <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CombinationLock/CombinationLock.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SecretSanta/SecretSanta.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,10 +111,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FallingApart/FallingApart.java">
+        <entry file="file://$PROJECT_DIR$/src/TrollHunt/TrollHunt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="-10">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,11 +159,9 @@
         <option value="$PROJECT_DIR$/src/CatalanSquare/CatalanSquare.java" />
         <option value="$PROJECT_DIR$/src/StandOnZanzibar/StandOnZanzibar.java" />
         <option value="$PROJECT_DIR$/src/QALY/QALY.java" />
-        <option value="$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java" />
         <option value="$PROJECT_DIR$/src/CardTrick/CardTrick.java" />
         <option value="$PROJECT_DIR$/src/TrollHunt/CardTrick.java" />
         <option value="$PROJECT_DIR$/src/TrollHunt/TrollHunt.java" />
-        <option value="$PROJECT_DIR$/src/SecretSanta/SecretSanta.java" />
         <option value="$PROJECT_DIR$/src/QuadrantSelection/SecretSanta.java" />
         <option value="$PROJECT_DIR$/src/QuadrantSelection/QuadrantSelection.java" />
         <option value="$PROJECT_DIR$/src/GrassSeed/GrassSeed.java" />
@@ -155,6 +173,8 @@
         <option value="$PROJECT_DIR$/src/FallingApart/FallingApart.java" />
         <option value="$PROJECT_DIR$/src/CombinationLock/CombinationLock.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java" />
+        <option value="$PROJECT_DIR$/src/SecretSanta/SecretSanta.java" />
       </list>
     </option>
   </component>
@@ -253,6 +273,12 @@
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SecretSanta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StandOnZanzibar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,7 +309,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542472135938" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542591900352" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -303,20 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CombinationLock">
-    <configuration name="CalculatingDartScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatingDartScores.CalculatingDartScores" />
-      <module name="CodingChallenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CalculatingDartScores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SecretSanta">
     <configuration name="CombinationLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CombinationLock.CombinationLock" />
       <module name="CodingChallenges" />
@@ -369,20 +382,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecretSanta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecretSanta.SecretSanta" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SecretSanta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CalculatingDartScores" />
       <item itemvalue="Application.PrimaryArithmetic" />
       <item itemvalue="Application.PrimePath" />
       <item itemvalue="Application.FallingApart" />
       <item itemvalue="Application.CombinationLock" />
+      <item itemvalue="Application.SecretSanta" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecretSanta" />
         <item itemvalue="Application.CombinationLock" />
         <item itemvalue="Application.FallingApart" />
         <item itemvalue="Application.PrimePath" />
         <item itemvalue="Application.PrimaryArithmetic" />
-        <item itemvalue="Application.CalculatingDartScores" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +424,7 @@
       <updated>1542141034812</updated>
       <workItem from="1542141037519" duration="112000" />
       <workItem from="1542141387415" duration="22501000" />
-      <workItem from="1542288103881" duration="20915000" />
+      <workItem from="1542288103881" duration="26941000" />
     </task>
     <task id="LOCAL-00001" summary="Catalan Square Added">
       <created>1542141515854</created>
@@ -477,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542413932905</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="combination lock solved">
+      <created>1542472253382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542472253382</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43528000" />
+    <option name="totallyTimeSpent" value="49554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -531,7 +564,8 @@
     <MESSAGE value="calculating dart scores solved" />
     <MESSAGE value="primary arithmetic" />
     <MESSAGE value="prime path solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime path solved" />
+    <MESSAGE value="combination lock solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="combination lock solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -573,16 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CatalanSquare/CatalanSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" selection-start-line="26" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Statistics/Statistics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -617,26 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrollHunt/TrollHunt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -684,9 +688,49 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="104">
-            <caret line="4" column="117" selection-start-line="4" selection-start-column="117" selection-end-line="4" selection-end-column="117" />
+            <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CatalanSquare/CatalanSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrollHunt/TrollHunt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TourDeFrance/TourDeFrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecretSanta/SecretSanta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

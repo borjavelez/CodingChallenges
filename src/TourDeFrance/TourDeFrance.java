@@ -43,7 +43,6 @@ public class TourDeFrance {
                 previous = next;
             }
 
-            DecimalFormat df = new DecimalFormat("###.##");
             System.out.printf("%.2f%n", result);
         }
     }
